@@ -140,6 +140,7 @@
         "explosive_anvil": {
             "id": 17,
             "type": 5,
+
             "name": "Explosive Anvil",
             "description": "No one can remember why we made this but it's our top seller"
         }
