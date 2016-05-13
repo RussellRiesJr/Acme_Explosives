@@ -1,0 +1,148 @@
+{
+    "products": [
+      {
+        "mortars": {
+            "id": 0,
+            "type": 0,
+            "name": "Mortars",
+            "description": "Re-usable launching fireworks"
+        }
+      },
+      {
+        "roman_candles": {
+            "id": 1,
+            "type": 0,
+            "name": "Roman Candles",
+            "description": "Handheld repeating firework"
+        }
+      },
+      {
+        "lotus": {
+            "id": 2,
+            "type": 0,
+            "name": "Lotus",
+            "description": "Ground-based flowering firework"
+        }
+      },
+      {
+        "aerial": {
+            "id": 3,
+            "type": 1,
+            "name": "Aerial",
+            "description": "Chain-fused fireworks that propel a series of aerial shells"
+        }
+      },
+      {
+        "barrage": {
+            "id": 4,
+            "type": 1,
+            "name": "Barrage",
+            "description": "A rapidly fired sequence of firework effects"
+        }
+      },
+      {
+        "dragon_eggs": {
+            "id": 5,
+            "type": 1,
+            "name": "Dragon Eggs",
+            "description": "A cluster of crackling sparks in the air"
+        }
+      },
+      {
+        "sparklers": {
+            "id": 6,
+            "type": 2,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age"
+        }
+      },
+      {
+        "black_snake": {
+            "id": 7,
+            "type": 2,
+            "name": "Black Snake",
+            "description": "Black tablet which produces a long, black 'snake' of ash when lit"
+        }
+      },
+      {
+        "snappers": {
+            "id": 8,
+            "type": 2,
+            "name": "Snap 'n Pops",
+            "description": "Sperm-looking dodas that make a snapping noise when thrown against a hard surface"
+        }
+      },
+      {
+        "coring": {
+            "id": 9,
+            "type": 3,
+            "name": "Coring Explosives",
+            "description": "Inserted into coring holes to clear land"
+        }
+      },
+      {
+        "demolition": {
+            "id": 10,
+            "type": 3,
+            "name": "Demolition Explosives",
+            "description": "Used to demolish old buildings"
+        }
+      },
+      {
+        "precision": {
+            "id": 11,
+            "type": 3,
+            "name": "Precision Explosives",
+            "description": "Explosives designed for maximum control"
+        }
+      },
+      {
+        "m80": {
+            "id": 12,
+            "type": 4,
+            "name": "M-80",
+            "description": "Small explosive charge"
+        }
+      },
+      {
+        "m90": {
+            "id": 13,
+            "type": 4,
+            "name": "M-90",
+            "description": "Medium explosive charge"
+        }
+      },
+      {
+        "cherry_bomb": {
+            "id": 14,
+            "type": 4,
+            "name": "Cherry Bomb",
+            "description": "Large explosive charge"
+        }
+      },
+      {
+        "explosive_tennis_balls": {
+            "id": 15,
+            "type": 5,
+            "name": "Explosive Tennis Balls",
+            "description": "They look like tennis balls but are actually bombs"
+        }
+      },
+      {
+        "explosive_doorknob": {
+            "id": 16,
+            "type": 5,
+            "name": "Explosive Doorknob",
+            "description": "Keep unwanted guests from entering your house with an explosive doorknob"
+        }
+      },
+      {
+        "explosive_anvil": {
+            "id": 17,
+            "type": 5,
+            "name": "Explosive Anvil",
+            "description": "No one can remember why we made this but it's our top seller"
+        }
+      }
+    ]
+}

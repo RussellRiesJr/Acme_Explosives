@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "professional",
+            "description": "Fireworks made for use by the professionals. Must be qualified to purchase"
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "toy",
+            "description": "Harmless fireworks that even children can use"
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "name": "construction",
+            "description": "Explosives used on-site for construction projects"
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "bathroom",
+            "description": "Explosives used by punks to mess with toilets at their school"
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "anti-roadrunner",
+            "description": "Explosives used for hunting flightless birds in the American west"
+        }
+    ]
+}
